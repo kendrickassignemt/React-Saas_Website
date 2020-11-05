@@ -88,6 +88,4 @@ It will create a folder named build with your compiled project inside. After tha
 ## Contribute
 Show your support by ⭐ the project. Pull requests are always welcome.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/dunky11/react-saas-template/blob/master/LICENSE) file for details.
